@@ -144,4 +144,5 @@ Note: The dataset consists of 1000 samples, which may lead to potential overfitt
 When running the Streamlit app, the application will check for required files before processing any data. If any of these files are missing, the app will display an error message. For example:
 1. If the X_test file is not found, an error like "X_test file not found" will be shown.
 2. If the model file is missing, you will see an error message like "Model not found".
+
 To resolve these errors, the user needs to click on the Train Model button. This step ensures that all necessary files are created, and the error messages will no longer appear.
