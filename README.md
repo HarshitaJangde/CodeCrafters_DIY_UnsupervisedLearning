@@ -24,7 +24,7 @@ This is the Unsupervised Learning Algorithms branch.
    - [Model Prediction](#model-prediction)
    - [Web Application](#web-application)
 9. [Steps to Run](#steps-to-run)
-10. [Error Handling in the Streamlit App](#error-handling)
+10. [Error Handling in the Streamlit App](#error-handling-in-the-streamlit-app)
 
 
 ## Unsupervised Learning Algorithms
